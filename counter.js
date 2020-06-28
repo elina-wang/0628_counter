@@ -18,7 +18,7 @@ $(document).ready(function () {
             $("#test").animate({
             num : 100
             },{ duration:2500,step:(now) => {
-                $("#test").text(now);
+                $("#test").text(Math.floor (now));
             }
     
             })
