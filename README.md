@@ -2,6 +2,7 @@
 計數器
 
 1. 先連結JQUERY-CDN
+‵‵‵
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 2. 連結計數器CDN
